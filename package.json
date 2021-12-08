@@ -1,5 +1,5 @@
 {
-  "name": "add-comma",
+  "name": "add-comma-persian-price",
   "version": "1.0.0",
   "description": "import addCommas and pass number to output make string with comma in persian",
   "main": "index.js",
