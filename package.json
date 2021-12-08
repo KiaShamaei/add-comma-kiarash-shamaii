@@ -1,0 +1,11 @@
+{
+  "name": "add-comma",
+  "version": "1.0.0",
+  "description": "import addCommas and pass number to output make string with comma in persian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kiarash.shamaii@gmai.com",
+  "license": "ISC"
+}
