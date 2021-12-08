@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "kiarash.shamaii@gmai.com",
-  "license": "ISC"
+  "author": "kiarash.shamaii@gmai.comnpm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiaShamaei/add-comma-kiarash-shamaii.git"
+  },
+  "keywords": [
+    "add-comma"
+  ],
+  "bugs": {
+    "url": "https://github.com/KiaShamaei/add-comma-kiarash-shamaii/issues"
+  },
+  "homepage": "https://github.com/KiaShamaei/add-comma-kiarash-shamaii#readme"
 }
